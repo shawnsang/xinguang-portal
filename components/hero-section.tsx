@@ -15,10 +15,10 @@ export default function HeroSection(props: Props = defaultProps) {
             点亮创意 · 锻造数字未来
           </div>
           <h1 className="text-3xl font-bold tracking-tight sm:text-5xl">
-            心光全栈智造工场
+            心光互联软件工坊
           </h1>
           <p className="max-w-prose text-base text-muted-foreground sm:text-lg">
-            我们不仅是开发者，更是您数字蓝图的全栈构建者与匠心锻造者。以“心光”指引，聚焦“全栈”赋能，践行“智造”精工，打造高效协同的“工场”交付体系。
+            我们不仅是开发者，更是您数字化转型的专业伙伴与可靠助手。以"心光"指引需求洞察，依托"互联"协同高效沟通，专注"软件"精工品质，构建完善的"工坊"交付体系。
           </p>
           <div className="flex flex-col gap-3 sm:flex-row">
             <Button asChild className="bg-amber-500 hover:bg-amber-600">

@@ -9,24 +9,24 @@ type Pillar = {
 
 const pillars: Pillar[] = [
   {
-    title: "“心光”指引",
-    desc: "用心倾听、深度洞察，以智慧之光点亮业务需求与创新构想。",
+    title: "\"心光\"指引",
+    desc: "用心倾听客户需求，以专业洞察点亮数字化转型之路。",
     Icon: Sparkles,
   },
   {
-    title: "“全栈”赋能",
-    desc: "从咨询、架构、Web/App/AI开发、测试、翻译到部署运维，覆盖全生命周期。",
-    Icon: Layers,
+    title: "\"互联\"协同",
+    desc: "依托现代化协作平台，实现团队高效互联与透明沟通。",
+    Icon: Network,
   },
   {
-    title: "“智造”精工",
-    desc: "融合人工智能与创新技术，在数字熔炉中锻造稳定、高效、智能的解决方案。",
+    title: "\"软件\"精工",
+    desc: "专注软件开发核心技术，打造稳定可靠的数字化产品。",
     Icon: BrainCircuit,
   },
   {
-    title: "“工场”协作",
-    desc: "依托 xinguang.online 高效互联，透明协同，只为交付卓越。",
-    Icon: Network,
+    title: "\"工坊\"交付",
+    desc: "从需求分析到产品上线，提供全流程的软件开发服务。",
+    Icon: Layers,
   },
 ]
 
@@ -39,9 +39,9 @@ export default function PillarsSection(props: Props = defaultProps) {
     <section id="pillars" className="w-full py-12 md:py-20">
       <div className="container mx-auto px-4">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">价值主张与方法论</h2>
+          <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">核心理念与服务优势</h2>
           <p className="mt-3 text-muted-foreground">
-            心光 · 全栈 · 智造 · 工场 —— 四位一体，端到端的交付承诺。
+            心光 · 互联 · 软件 · 工坊 —— 专业专注，值得信赖的软件开发伙伴。
           </p>
         </div>
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">

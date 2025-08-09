@@ -25,7 +25,7 @@ export default function SiteHeader(props: Props = defaultProps) {
           <span className="inline-flex h-8 w-8 items-center justify-center rounded-md bg-gradient-to-br from-amber-500 to-orange-500 text-white">
             <Hammer className="h-4 w-4" />
           </span>
-          <span className="text-sm sm:text-base">心光全栈智造工场</span>
+          <span className="text-sm sm:text-base">心光互联软件工坊</span>
         </Link>
         <nav className="ml-auto hidden items-center gap-6 sm:flex">
           <Link href="#services" className="text-sm text-muted-foreground hover:text-foreground">

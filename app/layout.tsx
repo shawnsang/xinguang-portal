@@ -4,8 +4,8 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: '心光全栈智造工场',
-  description: '心光全栈智造工场，提供一站式的全栈智造解决方案。',
+  title: '心光互联软件工坊',
+  description: '心光互联软件工坊，提供一站式的软件开发解决方案。',
   generator: 'Shawn',
 }
 

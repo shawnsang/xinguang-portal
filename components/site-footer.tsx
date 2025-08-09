@@ -9,7 +9,7 @@ export default function SiteFooter(props: Props = defaultProps) {
     <footer className="border-t">
       <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-4 py-6 text-sm text-muted-foreground md:flex-row">
         <p>
-          © {new Date().getFullYear()} 心光全栈智造工场 · Xinguang Full‑Stack Forge
+          © {new Date().getFullYear()} 心光互联软件工坊 · Xinguang Software Workshop
         </p>
         <div className="flex items-center gap-4">
           <Link href="#services" className="hover:underline underline-offset-4">
