@@ -40,13 +40,13 @@
 - **功能**: 高质量语音识别与文本清洗
 - **特色**: 支持批量处理 · 标点恢复 · 分段对齐
 - **支持**: 多语种与多场景的知识沉淀
-- **访问**: [xinguang.online/s2t](https://xinguang.online/s2t)
+- **访问**: [s2t.xinguang.online](https://s2t.xinguang.online)
 
 #### 🔹 Nextcloud 云服务
 - **功能**: 私有化云盘与协作空间
 - **特色**: 端到端加密 · 多端同步 · 细粒度权限
 - **用途**: 安全存储、共享与同步团队资料
-- **访问**: [xinguang.online/nextcloud](https://xinguang.online/nextcloud)
+- **访问**: [nextcloud.xinguang.online](https://nextcloud.xinguang.online)
 
 ### 4. 联系咨询 (Contact CTA)
 - 项目咨询入口
