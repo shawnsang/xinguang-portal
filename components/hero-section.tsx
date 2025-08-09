@@ -32,15 +32,16 @@ export default function HeroSection(props: Props = defaultProps) {
             覆盖前沿咨询 · 架构设计 · 敏捷开发（Web / App / AI）· 测试 · 翻译 · 部署 · 运维全生命周期
           </p>
         </div>
-        <div className="relative h-[260px] w-full overflow-hidden rounded-xl border bg-white shadow md:h-[360px]">
+        <div className="relative h-[260px] w-full overflow-hidden rounded-2xl border bg-white shadow-lg shadow-amber-100/50 md:h-[360px]">
           <Image
             src="/images/amber-nebula.png"
             alt="琥珀色星云主视觉"
             fill
-            className="object-cover"
+            className="object-cover transition-all duration-300 hover:scale-105"
             priority
           />
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-tr from-amber-50/30 via-transparent to-white/20" />
+          <div className="pointer-events-none absolute inset-0 rounded-2xl ring-1 ring-inset ring-amber-200/20" />
         </div>
       </div>
     </section>

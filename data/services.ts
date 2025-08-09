@@ -8,7 +8,7 @@ export const services: Service[] = [
     href: "https://agaistock.cn",
     status: "active",
     badge: "可靠 · 高效 · 可扩展",
-    imageSrc: "/placeholder.svg?height=240&width=640",
+    imageSrc: "/images/agaistock.png",
     imageAlt: "Ag智能股票分析助手 主题图",
     logoSrc: "/images/ag-logo.png",
     logoAlt: "Ag智能股票分析助手 Logo",
